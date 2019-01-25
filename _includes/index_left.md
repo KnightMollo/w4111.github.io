@@ -16,7 +16,7 @@
   <small>Thurs 3-4PM in 421 Mudd</small>
 * Amita Shukla <small>IA</small> <small>([email](mailto:ajs2349@columbia.edu))</small><br>
   <small>Weds 12-1PM in [TA room](https://ia.cs.columbia.edu/tamap.shtml)</small>
-* Yiru Chen <small>IA</small> <small>([email](mailto:yiru.chen@columbia.edu))</small><br>
+* [Yiru Chen](https://www.cs.columbia.edu/~chen1ru/) <small>IA</small> <small>([email](mailto:yiru.chen@columbia.edu))</small><br>
   <small>Tues 10:10-11:10AM in [TA room](https://ia.cs.columbia.edu/tamap.shtml)</small>
 * Zhicheng Wu <small>IA</small> <small>([email](mailto:zw2497@columbia.edu))</small><br>
   <small>Fri 2-3PM in [TA room](https://ia.cs.columbia.edu/tamap.shtml)</small>
