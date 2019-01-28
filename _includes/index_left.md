@@ -22,6 +22,8 @@
   <small>Fri 2-3PM in [TA room](https://ia.cs.columbia.edu/tamap.shtml)</small>
 * [Ziao Wang](http://ziaowang.me) <small>IA</small> <small>([email](mailto:zw2498@columbia.edu))</small><br>
   <small>Mon 3-4PM in [TA room](https://ia.cs.columbia.edu/tamap.shtml)</small>
+* Wei Luo <small>IA</small> <small>([email](mailto:wl2671@columbia.edu))</small><br>
+  <small>Thurs 10:10-11:10AM in [TA room](https://ia.cs.columbia.edu/tamap.shtml)</small>
 
 
 
