@@ -15,13 +15,15 @@
 * [Eugene Wu](http://www.eugenewu.net) <small>Instructor</small>   
   <small>Thurs 3-4PM in 421 Mudd</small>
 * Amita Shukla <small>IA</small> <small>([email](mailto:ajs2349@columbia.edu))</small><br>
-  <small> in [TA room](https://ia.cs.columbia.edu/tamap.shtml)</small>
-* Yiru Chen <small>IA</small> <small>([email](mailto:yiru.chen@columbia.edu))</small><br>
-  <small> in [TA room](https://ia.cs.columbia.edu/tamap.shtml)</small>
+  <small>Weds 12-1PM in [TA room](https://ia.cs.columbia.edu/tamap.shtml)</small>
+* [Yiru Chen](https://www.cs.columbia.edu/~chen1ru/) <small>IA</small> <small>([email](mailto:yiru.chen@columbia.edu))</small><br>
+  <small>Tues 11:00-12:00AM in [TA room](https://ia.cs.columbia.edu/tamap.shtml)</small>
 * Zhicheng Wu <small>IA</small> <small>([email](mailto:zw2497@columbia.edu))</small><br>
-  <small> in [TA room](https://ia.cs.columbia.edu/tamap.shtml)</small>
-* Ziao Wang <small>IA</small> <small>([email](mailto:zw2498@columbia.edu))</small><br>
-  <small> in [TA room](https://ia.cs.columbia.edu/tamap.shtml)</small>
+  <small>Fri 2-3PM in [TA room](https://ia.cs.columbia.edu/tamap.shtml)</small>
+* [Ziao Wang](http://ziaowang.me) <small>IA</small> <small>([email](mailto:zw2498@columbia.edu))</small><br>
+  <small>Mon 3-4PM in [TA room](https://ia.cs.columbia.edu/tamap.shtml)</small>
+* Wei Luo <small>IA</small> <small>([email](mailto:wl2671@columbia.edu))</small><br>
+  <small>Thurs 10:10-11:10AM in [TA room](https://ia.cs.columbia.edu/tamap.shtml)</small>
 
 
 
