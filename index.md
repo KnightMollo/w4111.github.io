@@ -11,7 +11,7 @@ The goal of this class is two-fold. First, to introduce you to core database con
 <center><span style="font-size: 20pt">Please do not ask me about the waitlist</span></center>
 
 #### Announcments
-
+* HW0 results are out and can be found [here](https://github.com/w4111/hw0/blob/master/results.md).
 * If you need to change your instabase username to your UNI, [fill out this form](https://docs.google.com/forms/d/e/1FAIpQLSdG1eY8_PoODroMax3TWk29h5IhWFkJYHYiZGX4BlYPrV209g/viewform) by end of class 1/29
 * [Project 1 Part 1](https://github.com/w4111/project1) released
 * [HW0](https://github.com/w4111/hw0) released.  Due Friday 1/25 10AM EST sharp.  Otherwise you will receive a 0 in the class.
