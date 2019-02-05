@@ -11,6 +11,7 @@ The goal of this class is two-fold. First, to introduce you to core database con
 <center><span style="font-size: 20pt">Please do not ask me about the waitlist</span></center>
 
 #### Announcements
+* Update on balancing releasing HW solutions with giving you time to turn assignments late.  We will wait 3 days and then reserve the right to release solutions anytime after that.  After solutions are released, we will stop accepting submissions.
 * AA1 is out and can be found [here](https://github.com/w4111/advanced-public/blob/master/aa1.md). The databass to modify for AA1 can be found [here](https://github.com/w4111/databass-public/blob/master/README.md)
 * HW0 results are out and can be found [here](https://github.com/w4111/hw0/blob/master/results.md).
 * If you need to change your instabase username to your UNI, [fill out this form](https://docs.google.com/forms/d/e/1FAIpQLSdG1eY8_PoODroMax3TWk29h5IhWFkJYHYiZGX4BlYPrV209g/viewform) by end of class 1/29
