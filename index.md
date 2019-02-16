@@ -11,6 +11,7 @@ The goal of this class is two-fold. First, to introduce you to core database con
 <!--<center><span style="font-size: 20pt">Please do not ask me about the waitlist</span></center>-->
 
 #### Announcements
+* [Project 1 Part 3](https://github.com/w4111/project1-s19/blob/master/part3.md) released
 * [Project 1 Part 2](https://github.com/w4111/project1-s19/blob/master/part2.md) released
 * [AA2](https://github.com/w4111/advanced-public/blob/master/aa2.md) is out.
 * HW 1.1 Solutions have been corrected. The deadline for HW1 Part 2 is now Friday midnight.
