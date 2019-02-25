@@ -11,6 +11,7 @@ The goal of this class is two-fold. First, to introduce you to core database con
 <!--<center><span style="font-size: 20pt">Please do not ask me about the waitlist</span></center>-->
 
 #### Announcements
+* Professor Wu's office hours on Feb 28 moved to Feb 26th 5:30-6:30.
 * [HW2](https://github.com/w4111/hw2-s19) released, due Mar 5th 10 AM.
 * Update [AA2](https://github.com/w4111/advanced-public/blob/master/aa2.md) submit script.
 * [Project 1 Part 3](https://github.com/w4111/project1-s19/blob/master/part3.md) released
