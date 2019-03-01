@@ -11,6 +11,10 @@ The goal of this class is two-fold. First, to introduce you to core database con
 <!--<center><span style="font-size: 20pt">Please do not ask me about the waitlist</span></center>-->
 
 #### Announcements
+* Midterm 1: 
+  * Havemeyer 309, 3/7 8:40-9:55am
+  * 1 page 8x11 cheat sheet, both sides
+  * You may phone-a-friend for a question specified on the exam.  To be a friend, you should know their UNI _and_ name.
 * AA1 results are out.
 * Professor Wu's office hours on Feb 28 moved to Feb 26th 5:30-6:30.
 * [HW2](https://github.com/w4111/hw2-s19) released, due Mar 5th 10 AM.
