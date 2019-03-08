@@ -11,6 +11,7 @@ The goal of this class is two-fold. First, to introduce you to core database con
 <!--<center><span style="font-size: 20pt">Please do not ask me about the waitlist</span></center>-->
 
 #### Announcements
+* HW2 [solution](https://github.com/w4111/hw2-s19/blob/master/hw2-sol.md) is out.
 * [HW3](https://github.com/w4111/hw3-s19) is out.
 * Midterm 1: 
   * Havemeyer 309, 3/7 8:40-9:55am
