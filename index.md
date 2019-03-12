@@ -11,7 +11,8 @@ The goal of this class is two-fold. First, to introduce you to core database con
 <!--<center><span style="font-size: 20pt">Please do not ask me about the waitlist</span></center>-->
 
 #### Announcements
-* [Project 1 Part 2](https://github.com/w4111/project1-s19/blob/master/part2.md) extented to Friday, Mar 15th at 10AM
+* Midterm 1 [questions](https://github.com/w4111/w4111.github.io/blob/master/files/reading/midterm1-2019s.pdf) and [solutions](https://github.com/w4111/w4111.github.io/blob/master/files/reading/midterm1-2019s.sol.pdf) are out.
+* [Project 1 Part 2](https://github.com/w4111/project1-s19/blob/master/part2.md) extended to Friday, Mar 15th at 10AM
 * HW2 [solution](https://github.com/w4111/hw2-s19/blob/master/hw2-sol.md) is out.
 * [HW3](https://github.com/w4111/hw3-s19) is out.
 * Midterm 1: 
