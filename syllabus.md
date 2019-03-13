@@ -111,7 +111,7 @@ Extra credit is a way for students to illustrate their understanding of the cour
 1. We first compute the curve and grade cut-offs using scores that **do not** include any extra credit
 2. Then we add extra credit points.  
 
-Due to the additional work that the staff must take to assess and manage extra credit opportunities, we have strict deadlines for extra credit opportunities.
+Due to the additional work that the staff must take to assess and manage extra credit opportunities, we have **strict deadlines** for extra credit opportunities (aka no late days).
 
 
 ##### Extra Credit Opportunities
@@ -145,6 +145,7 @@ Additional late day rules
 
 * Late days are nontransferrable between homeworks and projects
 * To use a late day for a project, both team partners must have a project grace day available each, and they will both be deducted one project grace day each. If you change team partners and your new partner does not have any project grace days left, then unfortunately you will not be able to use any grace days for the project.
+* They do not apply to advanced assignments.
 
 
 
