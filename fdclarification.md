@@ -8,25 +8,21 @@ This document clarifies decomposition for functional dependencies.  What I demon
 
 ## BCNF
 
-In BCNF, you take the FDs as-is, and perform decomposition.  The order of functional dependencies that you use to perform decomposition will affect the tables that you end up with.  
+In BCNF, you perform decomposition based on FDs implied by armstrong's axioms.
 
         DecomposedRelations = { R }
 
         while DecomposedRelations is not empty
           R = pop a relation from DecomposedRelations
           FR = subset of FDs in R's projection
-          for fd X->Y in FR
-            if fd violates BCNF with respect to R
-              NewRs = decompose R using fd 
-              add NewRs to DecomposedRelations
-              continue while loop
+          Does there exist an fd X->Y in FR's closure that violates BCNF?
+          if yes:
+            NewRs = decompose R using X->Y
+            add NewRs to DecomposedRelations
+            continue while loop
 
 
-The key is how `violates` is checked.  You start with the **fds in R's projection**, and then check
-
-1. is fd trivial?  otherwise
-2. does `X` determine R when using the fds in R's projection?
-
+Thus, you continue until all fds implied by your set of functional dependencies do not violate BCNF for the decomposition.  
 
 What this means is that your decomposition may have been lossy and thus lose potential keys!  Take the example from the lecture notes:
 
@@ -46,12 +42,14 @@ What this means is that your decomposition may have been lossy and thus lose pot
           Only C->D is in its projection, so ACDE is redundant.
           Decompose into: CD, ACE
 
-        ACE has empty projection, thus it's in BCNF
+        ACE has empty projection
+
+        Thus, there are no FDs that violate BCNF for the decompositon: BD, CD, ACE
 
 
 ## 3NF
 
-In 3NF, you first compute the minimal cover of the FDs.  Note that the minimal cover may not always be unique.  Once you have the minimal cover, the procuder is similar to BCNF, with two key differences
+In 3NF, you first compute the minimal cover of the FDs.  Note that the minimal cover may not always be unique.  Once you have the minimal cover, the procedure is similar to BCNF, with two key differences
 
-1. checking violation of 3NF also allows Y to be part of a key (minimal key).
+1. checking violation of `X->Y` in 3NF also allows Y to be part of a key (minimal key).
 2. once you have performed BCNF decomposition, any lost dependencies are added as new relations.
