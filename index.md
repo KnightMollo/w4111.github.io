@@ -17,8 +17,8 @@ The goal of this class is two-fold. First, to introduce you to core database con
 * [Project 1 Part 2](https://github.com/w4111/project1-s19/blob/master/part2.md) extended to Friday, Mar 15th at 10AM
 * HW2 [solution](https://github.com/w4111/hw2-s19/blob/master/hw2-sol.md) is out.
 * [HW3](https://github.com/w4111/hw3-s19) is out.
-<!--
-* Midterm 1: 
+
+<!-- * Midterm 1: 
   * Havemeyer 309, 3/7 8:40-9:55am
   * 1 page 8x11 cheat sheet, both sides
   * You may phone-a-friend for a question specified on the exam.  To be a friend, you should know their UNI _and_ name.
