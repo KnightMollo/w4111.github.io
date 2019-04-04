@@ -12,6 +12,7 @@ The goal of this class is two-fold. First, to introduce you to core database con
 
 #### Announcements
 
+* [HW4](https://github.com/w4111/hw4-s19) is out.
 * AA3 extended to monday 4/8 10AM
 * Want more functional dependencies?  How about 100!  [Functional Dependency Problem Generator](./fd)
 * Midterm 1 [questions](https://github.com/w4111/w4111.github.io/blob/master/files/reading/midterm1-2019s.pdf) and [solutions](https://github.com/w4111/w4111.github.io/blob/master/files/reading/midterm1-2019s.sol.pdf) are out.
