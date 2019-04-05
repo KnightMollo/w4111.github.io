@@ -19,7 +19,7 @@
 * [Yiru Chen](https://www.cs.columbia.edu/~chen1ru/) <small>IA</small> <small>([email](mailto:yiru.chen@columbia.edu))</small><br>
   <small>Tues 11:00-12:00AM in [TA room](https://ia.cs.columbia.edu/tamap.shtml)</small>
 * [Zhicheng Wu](https://zw2497.github.io) <small>IA</small> <small>([email](mailto:zw2497@columbia.edu))</small><br>
-  <small>Fri 2-3PM in [TA room](https://ia.cs.columbia.edu/tamap.shtml)</small>
+  <small>Fri 2-3PM in [TA room](https://ia.cs.columbia.edu/tamap.shtml)</small> (3:30-4:30pm on Apr 5)
 * [Ziao Wang](http://ziaowang.me) <small>IA</small> <small>([email](mailto:zw2498@columbia.edu))</small><br>
   <small>Mon 2:40-3:40PM in [TA room](https://ia.cs.columbia.edu/tamap.shtml)</small>
 * Wei Luo <small>IA</small> <small>([email](mailto:wl2671@columbia.edu))</small><br>
