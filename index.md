@@ -12,6 +12,7 @@ The goal of this class is two-fold. First, to introduce you to core database con
 
 #### Announcements
 
+* [Join optimization problem generator](https://w4111.github.io/join.html)
 * [HW4](https://github.com/w4111/hw4-s19) is out.
 * AA3 extended to monday 4/8 10AM
 * Want more functional dependencies?  How about 100!  [Functional Dependency Problem Generator](./fd)
