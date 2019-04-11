@@ -10,14 +10,25 @@ The goal of this class is two-fold. First, to introduce you to core database con
 
 <!--<center><span style="font-size: 20pt">Please do not ask me about the waitlist</span></center>-->
 
-#### Announcements
+
+#### Automated Exercises/resources
+
+Developed for W4111
+
+* [Transaction scheduling](https://w4111.github.io/concurrency.html)
+* [Join optimization problem generator](https://w4111.github.io/join.html)
+* Want more functional dependencies?  How about 100!  [Functional Dependency Problem Generator](./fd)
+
+Developed by other people, found by Prof Wu:
 
 * An [external Relation Algebra calculator](http://dbis-uibk.github.io/relax/calc.htm#) that might help you write and understand relational algebra.
 * Here is a [link to another DB course's database recovery simulator](https://mwhittaker.github.io/aries/) (ARIES protocol).  It is more in depth than what we discussed in class, but is nice if you are interested in the details.
-* [Join optimization problem generator](https://w4111.github.io/join.html)
+
+
+#### Announcements
+
 * [HW4](https://github.com/w4111/hw4-s19) is out.
 * AA3 extended to monday 4/8 10AM
-* Want more functional dependencies?  How about 100!  [Functional Dependency Problem Generator](./fd)
 * Midterm 1 [questions](https://github.com/w4111/w4111.github.io/blob/master/files/reading/midterm1-2019s.pdf) and [solutions](https://github.com/w4111/w4111.github.io/blob/master/files/reading/midterm1-2019s.sol.pdf) are out.
 * [Project 1 Part 2](https://github.com/w4111/project1-s19/blob/master/part2.md) extended to Friday, Mar 15th at 10AM
 * HW2 [solution](https://github.com/w4111/hw2-s19/blob/master/hw2-sol.md) is out.
