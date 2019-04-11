@@ -12,6 +12,7 @@ The goal of this class is two-fold. First, to introduce you to core database con
 
 #### Announcements
 
+* An [external Relation Algebra calculator](http://dbis-uibk.github.io/relax/calc.htm#) that might help you write and understand relational algebra.
 * Here is a [link to another DB course's database recovery simulator](https://mwhittaker.github.io/aries/) (ARIES protocol).  It is more in depth than what we discussed in class, but is nice if you are interested in the details.
 * [Join optimization problem generator](https://w4111.github.io/join.html)
 * [HW4](https://github.com/w4111/hw4-s19) is out.
