@@ -26,7 +26,7 @@ Developed by other people, found by Prof Wu:
 
 
 #### Announcements
-* Sign up for a Project 1 Part 3 demo meeting with your mentor [here](https://calendar.google.com/calendar/selfsched?sstoken=UUlBaFJZbUNvTmp4fGRlZmF1bHR8YzJiMGQ3OTA1NzNmMDY1YjMxYzVlNzQ5OWFjOGM5OTI) is out.
+* Sign up for a Project 1 Part 3 demo meeting with your mentor [here](https://calendar.google.com/calendar/selfsched?sstoken=UUlBaFJZbUNvTmp4fGRlZmF1bHR8YzJiMGQ3OTA1NzNmMDY1YjMxYzVlNzQ5OWFjOGM5OTI).
 * [HW4](https://github.com/w4111/hw4-s19) is out.
 * AA3 extended to monday 4/8 10AM
 * Midterm 1 [questions](https://github.com/w4111/w4111.github.io/blob/master/files/reading/midterm1-2019s.pdf) and [solutions](https://github.com/w4111/w4111.github.io/blob/master/files/reading/midterm1-2019s.sol.pdf) are out.
