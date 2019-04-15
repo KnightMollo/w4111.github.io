@@ -26,6 +26,7 @@ Developed by others:
 
 
 #### Announcements
+* [Project2](https://github.com/w4111/project2_s19) is out
 * Sign up for a Project 1 Part 3 demo meeting with your mentor [here](https://calendar.google.com/calendar/selfsched?sstoken=UUlBaFJZbUNvTmp4fGRlZmF1bHR8YzJiMGQ3OTA1NzNmMDY1YjMxYzVlNzQ5OWFjOGM5OTI).
 * [HW4](https://github.com/w4111/hw4-s19) is out.
 * AA3 extended to monday 4/8 10AM
