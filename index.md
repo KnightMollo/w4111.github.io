@@ -19,7 +19,7 @@ Developed for W4111
 * [Join optimization problem generator](https://w4111.github.io/join.html)
 * Want more functional dependencies?  How about 100!  [Functional Dependency Problem Generator](./fd)
 
-Developed by other people, found by Prof Wu:
+Developed by others:
 
 * An [external Relation Algebra calculator](http://dbis-uibk.github.io/relax/calc.htm#) that might help you write and understand relational algebra.
 * Here is a [link to another DB course's database recovery simulator](https://mwhittaker.github.io/aries/) (ARIES protocol).  It is more in depth than what we discussed in class, but is nice if you are interested in the details.
