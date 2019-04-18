@@ -23,7 +23,7 @@ white,7-Mar,Midterm: closed book,one 8x11 page cheat sheet both sides,,,"<a href
 #ddf9ff,9-Apr,Query Proc,Join algorithms and Selinger,1,https://github.com/w4111/w4111.github.io/blob/master/files/lectures/lec9.pdf,Ch 12,"optional: <a href=""./reading/selinger.pdf"">Selinger Paper</a>",,,,
 #ddf9ff,11-Apr,Transaction Processing,Concurrency Control,1,https://github.com/w4111/w4111.github.io/blob/master/files/lectures/lec10.pdf,Ch 16,,,,,
 #ddf9ff,16-Apr,Transaction Processing,Concurrency Control,1,https://github.com/w4111/w4111.github.io/blob/master/files/lectures/lec10.pdf,"Ch 16<br/><a href=""https://github.com/w4111/w4111.github.io/blob/master/files/reading/midterm2-2015f.pdf"">Midterm 2 F15</a> (<a href=""https://github.com/w4111/w4111.github.io/blob/master/files/reading/midterm2-2015f-sol.pdf"">sol</a>)<br/><a href=""https://github.com/w4111/w4111.github.io/blob/master/files/reading/midterm2-2016s.pdf"">Midterm 2 S16</a> (<a href=""https://github.com/w4111/w4111.github.io/blob/master/files/reading/midterm2-2016s-sol.pdf"">sol</a>)",,"<a href=""https://github.com/w4111/project2_s19"">Project 2</a><br/><a href=""https://github.com/w4111/advanced-public/blob/master/aa4.md"">AA4</a>",,Project 1 Part 3 10AM,
-white,18-Apr,Transaction Processing,Recovery,,https://github.com/w4111/w4111.github.io/blob/master/files/lectures/lec10.pdf,Ch 18,,,,,
+white,18-Apr,Transaction Processing,Recovery,1,https://github.com/w4111/w4111.github.io/blob/master/files/lectures/lec10.pdf,Ch 18,,,,,
 white,23-Apr,Misc Lecture,TBA,,,,,,,HW 4 2:30PM,
 white,25-Apr,Review,,,,,,,,,
 white,30-Apr,Exam 2 (Cumulative): Closed Book,1 page cheat sheet both sides.  309 Havemeyer,,,,,,,,
