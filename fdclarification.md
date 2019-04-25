@@ -2,11 +2,11 @@
 layout: page
 ---
 
-# Clarification about Functional Dependency Decomposition
+## Clarification about Functional Dependency Decomposition
 
 This document clarifies decomposition for functional dependencies.  
 
-## BCNF
+### BCNF
 
 In BCNF, you perform decomposition based on FDs implied by armstrong's axioms.
 
@@ -70,7 +70,7 @@ For instance:
 
 
 
-## 3NF
+### 3NF
 
 In 3NF, you first compute the minimal cover of the FDs.  Note that the minimal cover may not always be unique.  Once you have the minimal cover, the procedure is similar to BCNF, with two key differences
 
