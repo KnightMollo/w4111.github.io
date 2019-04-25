@@ -4,7 +4,7 @@ layout: page
 
 # Clarification about Functional Dependency Decomposition
 
-This document clarifies decomposition for functional dependencies.  What I demonstrated in class was misleading.
+This document clarifies decomposition for functional dependencies.  
 
 ## BCNF
 
@@ -45,6 +45,29 @@ What this means is that your decomposition may have been lossy and thus lose pot
         ACE has empty projection
 
         Thus, there are no FDs that violate BCNF for the decompositon: BD, CD, ACE
+
+
+Here is another way to think about it, in terms of a procedure:
+
+        For each attribute or combination of attributes in R. Call it _attrs_
+          Does the closure of _attrs_ contain all attributes in R?
+          If yes: 
+            continue
+          Else: 
+            decompose relation wrt _attrs_ and its closure
+          Recall that _attrs_ --> _attrs_ is trivially true.
+
+
+For instance:
+
+        Given A->B, B->C, and relation ABCD
+
+        Consider A:                 it determines B, and C, but not D
+        Decompose using A->B:       AB, ACD
+        Consider A for ACD:         it determines C, but not D
+        Decompose using A->C:       AB, AC, AD
+
+
 
 
 ## 3NF
