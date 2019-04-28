@@ -27,6 +27,7 @@ Developed by others:
 
 #### Announcements
 
+* (4/27) Updated functional dependencies slides and clarification to reflect accurate decomposition.
 * [Clarification about Functional Dependencies and Decomposition](./fdclarification)
 * [AA4](https://github.com/w4111/advanced-public/blob/master/aa4.md) is out!
 * [Project2](https://github.com/w4111/project2_s19) is out
