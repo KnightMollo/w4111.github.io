@@ -27,6 +27,7 @@ Developed by others:
 
 #### Announcements
 
+* Midterm 2 [solutions](https://github.com/w4111/w4111.github.io/blob/master/files/reading/midterm2-2019s.sol.pdf) are out.
 * (4/27) Updated functional dependencies slides and clarification to reflect accurate decomposition.
 * [Clarification about Functional Dependencies and Decomposition](./fdclarification)
 * [AA4](https://github.com/w4111/advanced-public/blob/master/aa4.md) is out!
