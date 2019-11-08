@@ -17,3 +17,7 @@ Student evals
 The GDPR could impact your database design, depending on how you do it. Watch this to learn more.
 
 * https://twitter.com/GFritchey/status/973936845166972931
+
+NoSQL as regret
+
+https://tselai.com/modern-data-practice-and-the-sql-tradition.html
