@@ -1,3 +1,9 @@
+Next semester
+
+* Start with diverse profiles of actual data scientists/database people and whta they do
+* SQL top in-demand skill: https://spectrum.ieee.org/view-from-the-valley/at-work/tech-careers/sql-java-top-list-of-most-indemand-tech-skills
+
+
 Visualizing SQL and SQL help
 
 * http://tatiyants.com/postgres-query-plan-visualization/
@@ -12,7 +18,9 @@ Diagrms for ER diagrams
 * https://yuml.me/
 * https://news.ycombinator.com/item?id=21564990
 
+Postgresql
 
+* git@github.com:dimitri/pgloader.git
 
 aries simulator in js!
 
