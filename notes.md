@@ -2,6 +2,10 @@ Next semester
 
 * Start with diverse profiles of actual data scientists/database people and whta they do
 * SQL top in-demand skill: https://spectrum.ieee.org/view-from-the-valley/at-work/tech-careers/sql-java-top-list-of-most-indemand-tech-skills
+* Teach db design via services whose reqs change https://lemire.me/blog/2020/01/08/how-i-teach-database-design/
+  * nulls, uncertain values, incorrect values, multiple valid values all make strict schema design hard
+  * discuss use of duplicate data for performance 
+  * discuss replication for fault tolerance as well
 
 
 Visualizing SQL and SQL help
