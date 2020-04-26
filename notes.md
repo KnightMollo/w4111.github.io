@@ -44,6 +44,11 @@ NoSQL as regret
 * https://tselai.com/modern-data-practice-and-the-sql-tradition.html
 * http://www.dbdebunk.com/
 
+Weird things about SQL
+
+* https://scattered-thoughts.net/writing/select-wat-from-sql/
+
+
 Comics
 
 * https://twitter.com/b0rk/status/1193952307941171201?s=20
