@@ -15,6 +15,10 @@ Visualizing SQL and SQL help
 * https://pgexercises.com/
 * https://github.com/mgartner/pg_flame
 
+SQL problems
+
+* https://quip.com/2gwZArKuWk7W
+
 Diagrms for ER diagrams
 
 * https://mermaidjs.github.io
