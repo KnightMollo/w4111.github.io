@@ -51,6 +51,7 @@ NoSQL as regret
 Weird things about SQL
 
 * https://scattered-thoughts.net/writing/select-wat-from-sql/
+* http://oracle-internals.com/blog/2020/04/29/a-not-so-brief-but-very-accurate-history-of-pl-sql/
 
 
 Comics
