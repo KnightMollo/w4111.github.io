@@ -10,6 +10,7 @@ Next semester
 
 Visualizing SQL and SQL help
 
+* PICASSO blog post: http://justinjaffray.com/understanding-cost-models/
 * http://tatiyants.com/postgres-query-plan-visualization/
 * https://github.com/jarulraj/sqlcheck
 * https://pgexercises.com/
