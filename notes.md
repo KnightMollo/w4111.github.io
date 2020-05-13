@@ -6,6 +6,7 @@ Next semester
   * nulls, uncertain values, incorrect values, multiple valid values all make strict schema design hard
   * discuss use of duplicate data for performance 
   * discuss replication for fault tolerance as well
+* Switch to using https://www.pythonanywhere.com/ for the project backend?
 
 
 Visualizing SQL and SQL help
