@@ -9,6 +9,12 @@ Next semester
 * Switch to using https://www.pythonanywhere.com/ for the project backend?
 
 
+Datasets
+
+* https://github.com/vera-institute/incarceration_trends
+* https://www.prisonpolicy.org/data/
+
+
 Visualizing SQL and SQL help
 
 * PICASSO blog post: http://justinjaffray.com/understanding-cost-models/
