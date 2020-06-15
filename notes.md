@@ -7,6 +7,9 @@ Next semester
   * discuss use of duplicate data for performance 
   * discuss replication for fault tolerance as well
 * Switch to using https://www.pythonanywhere.com/ for the project backend?
+* Extra credits
+  * Do something interesting with https://www.prisma.io/
+  * Do one of the graph homeworks using materialize
 
 
 Datasets
